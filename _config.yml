@@ -59,7 +59,8 @@ content:
         # caption: 2019 - 2020
         # sub_title: M.S.  Atmospheric Sciences
         quote: >
-            Department of Earth, Ocean and Atmospheric Sciences
+            - David Bates Scholarship 2019/2020
+            - W.H. Mathews Scholarship 2020
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
@@ -67,8 +68,9 @@ content:
         title: University of Colorado Boulder
         caption: 2017 - 2018 <br> 2008 - 2013
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
-        # quote: >
-        #   Λαμψάτω τὸ φῶς ὑμῶν
+        quote: >
+          - Dean’s list: Fall 2017/Spring 2018
+          - Undergraduate Project: Characterizing Thunderstorm Outflow Boundaries in Complex Terrain
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
@@ -143,7 +145,7 @@ content:
         title: U.S. Forest Service
         caption: May 2014 - Nov. 2014
         sub_title: White River National Forest 
-        quote: >
+        quote: |
           Forestry Technician GS-04-Developed Rec.
         description: | # this will include new lines to allow paragraphs
           - The Maroon Bells, located approximately 5 miles from Aspen CO, is the most visited scenic area in one of the most visited National Forests in the Nation. 
