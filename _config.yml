@@ -94,6 +94,10 @@ content:
         caption: 2019 - Present
         # quote: >
         description: | # this will include new lines to allow paragraphs
+        - Developing a Numerical Weather Prediction derived <a href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
+        - This forest fuel moisture forecast is being integrated into a new fire growth and fuel emissions model to aid in smoke forecast predictions in the <a href="https://firesmoke.ca">Bluesky Canada</a> smoke forecast system. 
+        - I have constructed a low-cost, in situ instrument to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes.
+        - This disposable <a href="https://cerodell.github.io/fire_sensors/ ">Particulate Matter Sensor</a> will hopefully help my research team better understand wildfire smoke dynamics and forecasting. 
 
 
       - layout: left
