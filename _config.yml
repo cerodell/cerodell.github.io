@@ -46,33 +46,33 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BS in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research interests are coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
+  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BA in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research interests are coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: University of British Columbia Vancouver
         caption: 2019 - Present
         sub_title: Ph.D. Atmospheric Sciences
         # caption: 2019 - 2020
         # sub_title: M.S.  Atmospheric Sciences
-        quote: >
-          Tuum Est
+        # quote: >
+        #   Tuum Est
         description: | # this will include new lines to allow paragraphs
           Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
-      - layout: left
+      - layout: top-middle
         title: University of Colorado Boulder
         caption: 2017 - 2018 <br> 2008 - 2013
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
-        quote: >
-          Λαμψάτω τὸ φῶς ὑμῶν
+        # quote: >
+        #   Λαμψάτω τὸ φῶς ὑμῶν
         description: | # this will include new lines to allow paragraphs
           Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
-      - layout: left
+      - layout: top-middle
         title: Pennsylvania State University
         caption: 2015 -2016
         sub_title: Certificate in Weather Forecasting
@@ -124,6 +124,9 @@ content:
           - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample. 
           - Gauge sites also required routine equipment maintenance and on occasion emergency repairs were required (regardless of weather conditions).
 
+  - title: Additional Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: U.S. Forest Service
         caption: Nov. 2015 - Feb. 2017
