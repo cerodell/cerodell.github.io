@@ -110,7 +110,7 @@ content:
           - My tasks included detecting and analyzing 26 observed outflow boundaries in the Colorado Front Range for the purposes of validating WRF’s ability to accurately model gust fronts.
           - Analyzed the characteristics of each individual outflow boundary using a variety of remote sensing and in-situ instruments. 
           Depth, length, propagation speed/direction, temperature/pressure change, turbulence, and maximum velocity throughout the boundary layer were quantified and categorized depending on the thunderstorm type, terrain, and ambient atmospheric conditions. 
-          -<a target="_blank" href="http://clouds.colorado.edu/fire/">For more information</a>                                                            
+          - <a target="_blank" href="http://clouds.colorado.edu/fire/">For more information</a>                                                            
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -216,6 +216,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <TABLE>
+       </TR>
+          <TH>Column A</TH>
+          <TH>Column B</TH>
         <TR>
             <TD>Data 1</TD>
             <TD>Data 2</TD>
