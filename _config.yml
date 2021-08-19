@@ -153,18 +153,27 @@ content:
           - Strong communication skills were required as I often met people from foreign countries with limited or no English language skills.  
 
 
-  - title: A Little More About Me
+  - title: Publications/ Conference Presentations
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      <p><b>Publications</b></p>
+      - Luchetti, N. T., Friedrich, K. & Rodell, C. E. Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
+      - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., Rodell, C., Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
+      - Luchetti, N. T., Friedrich, K. & Rodell, C. E & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
+      - Rodell, C., R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (being written for Wea. Forecasting)
+      
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+  - title: Publications/ Conference Presentations # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Publications
+        description: |
+          - Luchetti, N. T., Friedrich, K. & Rodell, C. E. Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
+          - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., Rodell, C., Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
+          - Luchetti, N. T., Friedrich, K. & Rodell, C. E & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
+          - Rodell, C., R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (being written for Wea. Forecasting)
+          
 
 
 # Footer
