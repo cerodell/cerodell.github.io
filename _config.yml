@@ -46,7 +46,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BA in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research interests are coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
+  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BA in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research interests are coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
 
 content:
   - title: Education # Title for the section
@@ -94,10 +94,10 @@ content:
         caption: 2019 - Present
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          - Developing a Numerical Weather Prediction derived <a href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
-          - This forest fuel moisture forecast is being integrated into a new fire growth and fuel emissions model to aid in smoke forecast predictions in the <a href="https://firesmoke.ca">Bluesky Canada</a> smoke forecast system. 
+          - Developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
+          - This forest fuel moisture forecast is being integrated into a new fire growth and fuel emissions model to aid in smoke forecast predictions in the <a target="_blank" href="https://firesmoke.ca">Bluesky Canada</a> smoke forecast system. 
           - I have constructed a low-cost, in situ instrument to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes.
-          - This disposable <a href="https://cerodell.github.io/fire_sensors/ ">Particulate Matter Sensor</a> will hopefully help my research team better understand wildfire smoke dynamics and forecasting. 
+          - This disposable <a target="_blank" href="https://cerodell.github.io/fire_sensors/ ">Particulate Matter Sensor</a> will hopefully help my research team better understand wildfire smoke dynamics and forecasting. 
 
 
       - layout: left
