@@ -121,7 +121,7 @@ content:
         sub_title: Sampling Officer
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          - Collected precipitation samples for the <a target="_blank" href="http://nadp.slh.wisc.edu/>National Atmospheric Deposition Program</a> (NADP).
+          - Collected precipitation samples for the <a target="_blank" href="http://nadp.slh.wisc.edu/">National Atmospheric Deposition Program</a> (NADP).
           - Obtained digital and physical samples from two gauge sites located at an elevation of approximately 11,800 feet.
           - Commuted to each location on snowmobile or utility terrain vehicle (UTV) to ensure the NADP received data to support their research.
           - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample.
