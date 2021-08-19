@@ -156,7 +156,7 @@ content:
   # - title: Publications and Conference Presentations
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
-  #     <p><b>Publications</b></p>
+  #     <b>Publications</b>
   #     - Luchetti, N. T., Friedrich, K. & Rodell, C. E. Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
   #     - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., Rodell, C., Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
   #     - Luchetti, N. T., Friedrich, K. & Rodell, C. E & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
@@ -170,36 +170,36 @@ content:
         title: Publications
         description: |
           - Luchetti, N. T., Friedrich, K. & <b>Rodell, C. E.</b> Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
-          - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., <p><b>Rodell, C.</b></p>, Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
-          - Luchetti, N. T., Friedrich, K. & <p><b>Rodell, C. E</b></p> & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
-          - <p><b>Rodell, C.</b></p>, R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (In Preparation 2021)
-          - Philip, S. Y.,  Kew S. F.,  Jan van Oldenborgh G.,  Yang W., Vecchi G. A.,  Anslow F. S.,  Li S.,  Seneviratne S. I. ,  Luu L. N.,  Arrighi J.,  Singh R.,  Aalst M., Hauser M., Schumacher D. L.,  Marghidan C. P., Ebi K. L.,  Bonnet R., Vautard R., Tradowsky J., Coumou D., Lehner F., Wehner M., <p><b>Rodell, C.</b></p>, Stull R., Howard R., Gillett N., Otto F. E. L. Rapid attribution analysis of the extraordinary heatwave on the Pacific Coast of the US and Canada June 2021 . 119–123 (In Preparation 2021).
+          - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., <b>Rodell, C.</b>, Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
+          - Luchetti, N. T., Friedrich, K. & <b>Rodell, C. E</b> & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
+          - <b>Rodell, C.</b>, R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (In Preparation 2021)
+          - Philip, S. Y.,  Kew S. F.,  Jan van Oldenborgh G.,  Yang W., Vecchi G. A.,  Anslow F. S.,  Li S.,  Seneviratne S. I. ,  Luu L. N.,  Arrighi J.,  Singh R.,  Aalst M., Hauser M., Schumacher D. L.,  Marghidan C. P., Ebi K. L.,  Bonnet R., Vautard R., Tradowsky J., Coumou D., Lehner F., Wehner M., <b>Rodell, C.</b>, Stull R., Howard R., Gillett N., Otto F. E. L. Rapid attribution analysis of the extraordinary heatwave on the Pacific Coast of the US and Canada June 2021 . 119–123 (In Preparation 2021).
 
       - layout: top-middle
         title: Oral Presentations
         description: |
-         - <p><b>Rodell, C.</b></p>, Moisseeva, N., Howard, R., Stull, R., Schigas, R., Chui, T. (18-21 Nov 2019): Plume rise and dispersion: BlueSky Canada, Research and field observations.  Wildland Fire Canada 2019.  Ottawa, ON. 
-         - Moisseeva, N., Howard, R., <p><b>Rodell, C.</b></p>, Stull, R., 12 Feb 2020: Wildfire behavior and smoke research at UBC.  BC Environment Interagency Air Quality meeting.  ECCC Vancouver.  (f2f)
-         - Moisseeva, N., Howard, R., <p><b>Rodell, C.</b></p>, Stull, R., 19 Mar 2020: Wildfire behavior and smoke research at UBC.  Natural Resources Canada, Edmonton. (online)
-         - Moisseeva, N., Howard, R., <p><b>Rodell, C.</b></p>, Stull, R., 14 April 2020: Wildfire behavior and smoke research at UBC. Forest Fire Working Group Meeting. (online)
-         - Stull, R., Moisseeva, N., Howard, R., <p><b>Rodell, C.</b></p>, 15 April 2020: Wildfire behavior and smoke research at UBC. Cascadia Wildfire and Urban Smoke Working Group. (online)
-         - Moisseeva, N., Howard, R., <p><b>Rodell, C.</b></p>, Stull, R., 18 April 2020: Wildfire behaviour and smoke research at UBC: Research Leading to Improvement in Operational Smoke and Fire Index Forecasting. Forest Fire Working Group Meeting, ECCC. (remote) 
-         - Moisseeva, N., Howard, R., <p><b>Rodell, C.</b></p>, Stull, R., 10 June 2020: Wildfire behaviour and smoke research at UBC: Research Leading to Improvement in Operational Smoke and Fire Index Forecasting. BC Wildfire. (remote)
-         - Moisseeva, N., Howard, R., Schmidt, T., Deere, A., Schigas, R., <p><b>Rodell, C.</b></p>,, Stull, R., 7 July 2020: Wildfire behaviour and smoke research at UBC: Update. Natural Resources Canada. (remote)
-         - <p><b>Rodell, C.</b></p>,, Moisseeva, N., Howard, R., Stull, R., 18 September 2020: Particulate Matter Sensors: Vertical Profile of a Wildland Fire Smoke Plume by In-situ Observation. Atmospheric Chemistry Research Group, UBC. (remote)
-         - <p><b>Rodell, C.</b></p>,, Moisseeva, N., Howard, R., Stull, R., 2 Nov. 2020: Fire Weather Forecasts: Numerical Weather Prediction Derived Fire Weather Index System. Government of the Northwest Territories, Fort Smith, NT. (remote)
-         - <p><b>Rodell, C.</b></p>,, Moisseeva, N., Howard, R., Stull, R., 14 April 2021: Particulate Matter Sensors: Vertical Profile of a Wildland Fire Smoke Plume by In-situ Observation. United States Forest Service AirFire Research Group, Seattle, USA. (remote)
-         - <p><b>Rodell, C.</b></p>,, Moisseeva, N., Howard, R., Stull, R., May 13th 2021:  Numerical weather prediction (NWP) derived Canadian Fire Weather Indices (FWI). American Meteorological Society 13th Fire and Forest Meteorology Symposium. (remote)
-         - <p><b>Rodell, C.</b></p>,, Moisseeva, N., Chui, T., Howard, R., Stull, R., June 3rd 2021: Improving the Spatial and Temporal Resolution of the Existing Fire Weather Index System for Operational Use by Wildfire Agencies. Canadian Meteorological and Oceanographic Society 55th Congress. (remote)
-         - Moisseeva, N., <p><b>Rodell, C.</b></p>,, Wang, J., Howard, R., Chui, T., Schigas, R., Stull, R., 2 June 2021: The Evaluation of Numerically-Driven Wildfire Smoke Plume Rise and Fire Behaviour System. 55th CMOS Congress. (remote)
+         - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., Schigas, R., Chui, T. (18-21 Nov 2019): Plume rise and dispersion: BlueSky Canada, Research and field observations.  Wildland Fire Canada 2019.  Ottawa, ON. 
+         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 12 Feb 2020: Wildfire behavior and smoke research at UBC.  BC Environment Interagency Air Quality meeting.  ECCC Vancouver.  (f2f)
+         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 19 Mar 2020: Wildfire behavior and smoke research at UBC.  Natural Resources Canada, Edmonton. (online)
+         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 14 April 2020: Wildfire behavior and smoke research at UBC. Forest Fire Working Group Meeting. (online)
+         - Stull, R., Moisseeva, N., Howard, R., <b>Rodell, C.</b>, 15 April 2020: Wildfire behavior and smoke research at UBC. Cascadia Wildfire and Urban Smoke Working Group. (online)
+         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 18 April 2020: Wildfire behaviour and smoke research at UBC: Research Leading to Improvement in Operational Smoke and Fire Index Forecasting. Forest Fire Working Group Meeting, ECCC. (remote) 
+         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 10 June 2020: Wildfire behaviour and smoke research at UBC: Research Leading to Improvement in Operational Smoke and Fire Index Forecasting. BC Wildfire. (remote)
+         - Moisseeva, N., Howard, R., Schmidt, T., Deere, A., Schigas, R., <b>Rodell, C.</b>,, Stull, R., 7 July 2020: Wildfire behaviour and smoke research at UBC: Update. Natural Resources Canada. (remote)
+         - <b>Rodell, C.</b>,, Moisseeva, N., Howard, R., Stull, R., 18 September 2020: Particulate Matter Sensors: Vertical Profile of a Wildland Fire Smoke Plume by In-situ Observation. Atmospheric Chemistry Research Group, UBC. (remote)
+         - <b>Rodell, C.</b>,, Moisseeva, N., Howard, R., Stull, R., 2 Nov. 2020: Fire Weather Forecasts: Numerical Weather Prediction Derived Fire Weather Index System. Government of the Northwest Territories, Fort Smith, NT. (remote)
+         - <b>Rodell, C.</b>,, Moisseeva, N., Howard, R., Stull, R., 14 April 2021: Particulate Matter Sensors: Vertical Profile of a Wildland Fire Smoke Plume by In-situ Observation. United States Forest Service AirFire Research Group, Seattle, USA. (remote)
+         - <b>Rodell, C.</b>,, Moisseeva, N., Howard, R., Stull, R., May 13th 2021:  Numerical weather prediction (NWP) derived Canadian Fire Weather Indices (FWI). American Meteorological Society 13th Fire and Forest Meteorology Symposium. (remote)
+         - <b>Rodell, C.</b>,, Moisseeva, N., Chui, T., Howard, R., Stull, R., June 3rd 2021: Improving the Spatial and Temporal Resolution of the Existing Fire Weather Index System for Operational Use by Wildfire Agencies. Canadian Meteorological and Oceanographic Society 55th Congress. (remote)
+         - Moisseeva, N., <b>Rodell, C.</b>,, Wang, J., Howard, R., Chui, T., Schigas, R., Stull, R., 2 June 2021: The Evaluation of Numerically-Driven Wildfire Smoke Plume Rise and Fire Behaviour System. 55th CMOS Congress. (remote)
                 
       - layout: top-middle
         title: Posters Presentations
         description: |
-          - <p><b>Rodell, C.</b></p>, N. Luchetti.,  K. Friedrich J. Lundquist, B. Kosovic,, 2018: Characterizing Thunderstorm Outflow Boundary in Complex Terrain. Earth System and Space Science Poster Conference. November, 2018, Boulder, CO. 
-          - Luchetti, N. T., K. Friedrich, <p><b>C .Rodell</b></p>, J. Lundquist, B. Kosovic, 2018: Evaluating Gust Front Interactions With Idealized Terrain in WRF-Fire. Earth System and Space Science Poster Conference. November, 2018, Boulder, CO.   
-          - Luchetti, N. T.,  K. Friedrich, <p><b>C .Rodell</b></p>, J. Lundquist, B. Kosovic,, 2018: Characterizing Thunderstorm Outflow Boundary in Complex Terrain. 29th American Meteorological Society Conference on Severe and Local Storms, October, 2018, Stowe, VT.
-          - Luchetti, N. T., K. Friedrich, <p><b>C .Rodell</b></p>, J. Lundquist, B. Kosovic, 2017: Evaluating Thunderstorm Outflow Boundaries in WRF-Fire. Earth System and Space Science Poster Conference. November, 2017, Boulder, CO.  
+          - <b>Rodell, C.</b>, N. Luchetti.,  K. Friedrich J. Lundquist, B. Kosovic,, 2018: Characterizing Thunderstorm Outflow Boundary in Complex Terrain. Earth System and Space Science Poster Conference. November, 2018, Boulder, CO. 
+          - Luchetti, N. T., K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic, 2018: Evaluating Gust Front Interactions With Idealized Terrain in WRF-Fire. Earth System and Space Science Poster Conference. November, 2018, Boulder, CO.   
+          - Luchetti, N. T.,  K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic,, 2018: Characterizing Thunderstorm Outflow Boundary in Complex Terrain. 29th American Meteorological Society Conference on Severe and Local Storms, October, 2018, Stowe, VT.
+          - Luchetti, N. T., K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic, 2017: Evaluating Thunderstorm Outflow Boundaries in WRF-Fire. Earth System and Space Science Poster Conference. November, 2017, Boulder, CO.  
 
 
 # Footer
