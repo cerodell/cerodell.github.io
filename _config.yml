@@ -46,7 +46,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BS in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research interests are coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project is developing a Numerical Weather Prediction derived <a href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
+  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BS in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research interests are coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
 
 content:
   - title: Education # Title for the section
@@ -59,7 +59,7 @@ content:
         # caption: 2019 - 2020
         # sub_title: M.S.  Atmospheric Sciences
         quote: >
-          Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
+          Tuum Est
         description: | # this will include new lines to allow paragraphs
           Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
@@ -68,7 +68,7 @@ content:
         caption: 2017 - 2018 <br> 2008 - 2013
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
         quote: >
-          Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
+          Λαμψάτω τὸ φῶς ὑμῶν
         description: | # this will include new lines to allow paragraphs
           Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
@@ -87,15 +87,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: University of British Columbia
+        link: <a href="https://www.eoas.ubc.ca/">Department of Earth Oceanic and Atmospheric Sciences</a>
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Graduate Research Assistant
+        caption: 2019 - Present
+        # quote: >
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+
+      - layout: left
+        title: University of Colorado
+        link: <a href="https://www.colorado.edu/atoc/">Department of Atmospheric and Oceanic Sciences</a>
+        # link_text: boringcompany.com
+        sub_title: Undergraduate Research Opportunity Fellow
+        caption: Sept. 2017 - Feb. 2019
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - Assisting Dr. Katja Friedrich and Nicholas Luchetti (Ph.D. student) in evaluating thunderstorm outflow boundaries in WRF-Fire. 
+          - My tasks included detecting and analyzing 26 observed outflow boundaries in the Colorado Front Range for the purposes of validating WRF’s ability to accurately model gust fronts.
+          - Analyzed the characteristics of each individual outflow boundary using a variety of remote sensing and in-situ instruments. 
+          Depth, length, propagation speed/direction, temperature/pressure change, turbulence, and maximum velocity throughout the boundary layer were quantified and categorized depending on the thunderstorm type, terrain, and ambient atmospheric conditions. 
+          - For more information: http://clouds.colorado.edu/fire/			                                                              
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,9 +116,20 @@ content:
       - layout: left
         title: U.S. Forest Service
         caption: Nov. 2015 - Feb. 2017
-        sub_title: Sampling Officer <br> White River National Forest
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        sub_title: White River National Forest <br> Sampling Officer 
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - Collected precipitation samples for the National Atmospheric Deposition Program (NADP).
+          - Every Tuesday, regardless of weather conditions, I obtained digital and physical samples from two gauge sites located at an elevation of approximately 11,800 feet. 
+          - Commuted to each location on snowmobile or utility terrain vehicle (UTV) to ensure the NADP received data to support their research. 
+          - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample. 
+          - Gauge sites also required routine equipment maintenance and on occasion emergency repairs were required (regardless of weather conditions).
+
+      - layout: left
+        title: U.S. Forest Service
+        caption: Nov. 2015 - Feb. 2017
+        sub_title: White River National Forest <br> Sampling Officer 
+        # quote: >
         description: | # this will include new lines to allow paragraphs
           - Collected precipitation samples for the National Atmospheric Deposition Program (NADP).
           - Every Tuesday, regardless of weather conditions, I obtained digital and physical samples from two gauge sites located at an elevation of approximately 11,800 feet. 
@@ -113,6 +137,30 @@ content:
           - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample. 
           - Gauge sites also required routine equipment maintenance and on occasion emergency repairs were required (regardless of weather conditions).
   
+      - layout: left
+        title: U.S. Forest Service
+        caption: May 2015 - Oct. 2016
+        sub_title: White River National Forest <br> Forestry Technician GS-05-Trails Crew
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - Responsible for maintaining a diverse trail network located in arid desert and high alpine locations. 
+          - The level of trail repair and maintenance varied in each climatic zone as a result of variable soil composition and respected rates of erosion. 
+          - Dispatched for days at a time in remote areas where the only way to communicate was via satellite phone. 
+          - Extended assignments required on the spot creative problem solving with limited resources.
+          - The work was dangerous and strenuous requiring the use of varied safety measures. 
+          - Completed USFS National Fire Response training and was dispatched to fight multiple fires in 2016 fire season.
+      
+      - layout: left
+        title: U.S. Forest Service
+        caption: May 2014 - Nov. 2014
+        sub_title: White River National Forest <br> Forestry Technician GS-04-Developed Rec.
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - The Maroon Bells, located approximately 5 miles from Aspen CO, is the most visited scenic area in one of the most visited National Forests in the Nation. 
+          - Helped mitigate the damage to the area from overuse by educating the visitors through public contact. 
+          - Strong communication skills were required as I often met people from foreign countries with limited or no English language skills.  
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
