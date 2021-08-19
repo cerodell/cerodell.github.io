@@ -199,6 +199,36 @@ content:
           - Luchetti, N. T.,  K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic, 2018: Characterizing Thunderstorm Outflow Boundary in Complex Terrain. 29th American Meteorological Society Conference on Severe and Local Storms, October, 2018, Stowe, VT.
           - Luchetti, N. T., K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic, 2017: Evaluating Thunderstorm Outflow Boundaries in WRF-Fire. Earth System and Space Science Poster Conference. November, 2017, Boulder, CO.  
 
+
+  - title: Technical Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Programing
+        description: |
+          - Python
+          - JAVASCRIPT/HTML/CSS
+          - Bash
+          - Unix/Linux
+          - Arduino
+          - C ++
+          - MATLAB
+          - IDL
+          - NCL 
+          - Julia
+          - R
+          - VSCode
+          - Git
+
+      - layout: top-middle
+        title: Modeling
+        description: |
+          - <a target="_blank" href ="https://www.mmm.ucar.edu/weather-research-and-forecasting-model">Weather Research Forecast Model (WRF)</a>
+          - <a target="_blank" href ="https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki">Weather Research Forecast Model SFIRE (WRF-SFIRE)</a>
+          - <a target="_blank" href ="https://sites.google.com/firenet.gov/wfaqrp-airfire/data/bluesky">Bluesky Smoke Forecast Model</a>
+          - <a target="_blank" href ="https://www.ready.noaa.gov/HYSPLIT.php">HYSPLIT</a>
+        
+  
   - title: Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -210,29 +240,6 @@ content:
       - Equipment Operator, Snowmobile/UVT                       
       - Wilderness First Aid / CPR 
       - American Institute for Avalanche Research and Education   (AIARE Level 1)      
-
-
-  - title: Certifications
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      <TABLE>
-       </TR>
-          <TH>Column A</TH>
-          <TH>Column B</TH>
-        <TR>
-            <TD>Data 1</TD>
-            <TD>Data 2</TD>
-        </TR>
-        <TR>
-            <TD>Data 3</TD>
-            <TD>Data 4</TD>
-        </TR>
-        <TR>
-            <TD>Data 5</TD>
-            <TD>Data 6</TD>
-        </TR>
-      </TABLE>
-
 
 
 # Footer
