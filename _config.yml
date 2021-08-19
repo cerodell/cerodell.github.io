@@ -44,7 +44,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BA in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research interests are coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
+  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BA in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also have earned a certificate in weather forecasting from Penn State University. My research interests include coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
 
 content:
   - title: Education # Title for the section
@@ -67,7 +67,7 @@ content:
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
         quote: >
           - Dean’s list: Fall 2017/Spring 2018 <br>
-          - Undergraduate Project: Characterizing Thunderstorm <br> Outflow Boundaries in Complex Terrain
+          - Undergraduate Research Fellow: Characterizing Thunderstorm <br> Outflow Boundaries in Complex Terrain
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
@@ -93,8 +93,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
           - This forest fuel moisture forecast is being integrated into a new fire growth and fuel emissions model to aid in smoke forecast predictions in the <a target="_blank" href="https://firesmoke.ca">Bluesky Canada</a> smoke forecast system. 
-          - I have constructed a low-cost, in situ instrument to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes.
-          - This disposable <a target="_blank" href="https://cerodell.github.io/fire_sensors/ ">Particulate Matter Sensor</a> will hopefully help my research team better understand wildfire smoke dynamics and forecasting. 
+          - I have constructed a low-cost, in situ instrument to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes. This disposable <a target="_blank" href="https://cerodell.github.io/fire_sensors/ ">Particulate Matter Sensor</a> will hopefully help my research team better understand wildfire smoke dynamics and forecasting. 
 
 
       - layout: left
@@ -122,10 +121,10 @@ content:
         sub_title: Sampling Officer
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          - Collected precipitation samples for the National Atmospheric Deposition Program (NADP).
-          - Every Tuesday, regardless of weather conditions, I obtained digital and physical samples from two gauge sites located at an elevation of approximately 11,800 feet. 
-          - Commuted to each location on snowmobile or utility terrain vehicle (UTV) to ensure the NADP received data to support their research. 
-          - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample. 
+          - Collected precipitation samples for the <a target="_blank" href="http://nadp.slh.wisc.edu/>National Atmospheric Deposition Program (NADP)</a>.
+          - Obtained digital and physical samples from two gauge sites located at an elevation of approximately 11,800 feet.
+          - Commuted to each location on snowmobile or utility terrain vehicle (UTV) to ensure the NADP received data to support their research.
+          - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample.
           - Gauge sites also required routine equipment maintenance and on occasion emergency repairs were required (regardless of weather conditions).
 
   - title: Additional Experience # Title for the section
