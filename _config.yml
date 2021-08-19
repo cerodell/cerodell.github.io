@@ -29,9 +29,9 @@ linkedin_username: christopher-rodell-bba8911b4
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: firesmoke.ca
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://firesmoke.ca/forecasts/fireweather/current/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,24 +50,30 @@ about_content: | # this will include new lines to allow paragraphs
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      - layout: left
+        title: University of British Columbia Vancouver
+        caption: 2020 - Present
+        sub_title: Ph.D. Atmospheric Sciences
+        caption: 2019 - 2020
+        sub_title: M.S.  Atmospheric Sciences
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
+
+      - layout: left
+        title: University of Colorado Boulder
+        caption: 2017 -2018
+        sub_title: B.A. Atmospheric and Oceanic Sciences
+        quote: >
+          Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
+        description: | # this will include new lines to allow paragraphs
+          Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
+
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
