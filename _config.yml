@@ -153,26 +153,27 @@ content:
           - Strong communication skills were required as I often met people from foreign countries with limited or no English language skills.  
 
 
-  - title: Publications/ Conference Presentations
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      <p><b>Publications</b></p>
-      - Luchetti, N. T., Friedrich, K. & Rodell, C. E. Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
-      - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., Rodell, C., Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
-      - Luchetti, N. T., Friedrich, K. & Rodell, C. E & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
-      - Rodell, C., R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (being written for Wea. Forecasting)
+  # - title: Publications and Conference Presentations
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     <p><b>Publications</b></p>
+  #     - Luchetti, N. T., Friedrich, K. & Rodell, C. E. Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
+  #     - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., Rodell, C., Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
+  #     - Luchetti, N. T., Friedrich, K. & Rodell, C. E & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
+  #     - Rodell, C., R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (being written for Wea. Forecasting)
       
 
-  - title: Publications/ Conference Presentations # Title for the section
+  - title: Publications and Conference Presentations # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Publications
         description: |
-          - Luchetti, N. T., Friedrich, K. & Rodell, C. E. Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
-          - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., Rodell, C., Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
-          - Luchetti, N. T., Friedrich, K. & Rodell, C. E & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
-          - Rodell, C., R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (being written for Wea. Forecasting)
+          - Luchetti, N. T., Friedrich, K. & <p><b>Rodell, C. E.</b></p> Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
+          - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., <p><b>Rodell, C.</b></p>, Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
+          - Luchetti, N. T., Friedrich, K. & <p><b>Rodell, C. E</b></p> & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
+          - <p><b>Rodell, C.</b></p>, R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (In Preparation 2021)
+          - Philip, S. Y.,  Kew S. F.,  Jan van Oldenborgh G.,  Yang W., Vecchi G. A.,  Anslow F. S.,  Li S.,  Seneviratne S. I. ,  Luu L. N.,  Arrighi J.,  Singh R.,  Aalst M., Hauser M., Schumacher D. L.,  Marghidan C. P., Ebi K. L.,  Bonnet R., Vautard R., Tradowsky J., Coumou D., Lehner F., Wehner M., <p><b>Rodell, C.</b></p>, Stull R., Howard R., Gillett N., Otto F. E. L. Rapid attribution analysis of the extraordinary heatwave on the Pacific Coast of the US and Canada June 2021 . 119–123 (In Preparation 2021).
           
 
 
