@@ -115,8 +115,10 @@ content:
     content:
       - layout: left
         title: U.S. Forest Service
+        link: https://www.fs.usda.gov/whiteriver
+        link_text: White River National Forest
         caption: Nov. 2015 - Feb. 2017
-        sub_title: White River National Forest <br> <i>Sampling Officer</i>
+        sub_title: Sampling Officer
         # quote: >
         description: | # this will include new lines to allow paragraphs
           - Collected precipitation samples for the National Atmospheric Deposition Program (NADP).
@@ -130,8 +132,10 @@ content:
     content:
       - layout: left
         title: U.S. Forest Service
+        link: https://www.fs.usda.gov/whiteriver
+        link_text: White River National Forest
         caption: May 2015 - Oct. 2016
-        sub_title: White River National Forest <br> <i>Forestry Technician GS-05-Trails Crew</i>
+        sub_title: Forestry Technician GS-05-Trails Crew
         # quote: >
         description: | # this will include new lines to allow paragraphs
           - Responsible for maintaining a diverse trail network located in arid desert and high alpine locations. 
@@ -143,8 +147,10 @@ content:
       
       - layout: left
         title: U.S. Forest Service
+        link: https://www.fs.usda.gov/whiteriver
+        link_text: White River National Forest
         caption: May 2014 - Nov. 2014
-        sub_title: White River National Forest <br> <i>Forestry Technician GS-04-Developed Rec.</i>
+        sub_title: Forestry Technician GS-04-Developed Rec.
         # quote: |
           # Forestry Technician GS-04-Developed Rec.
         description: | # this will include new lines to allow paragraphs
