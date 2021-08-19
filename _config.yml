@@ -205,9 +205,9 @@ content:
       - layout: top-middle
         title: Programing
         quote: >
-          Python, JAVASCRIPT/HTML/CSS, Bash, Unix/Linux,  <br>
+          <b>Python, JAVASCRIPT/HTML/CSS, Bash, Unix/Linux,  <br>
           Arduino, C ++, MATLAB, IDL, NCL, Julia, R <br> 
-          VSCode Git
+          VSCode, Git</b>
 
       - layout: top-middle
         title: Modeling
