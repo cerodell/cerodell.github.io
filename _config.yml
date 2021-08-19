@@ -76,8 +76,7 @@ content:
         title: Pennsylvania State University
         caption: 2015 -2016
         sub_title: Certificate in Weather Forecasting
-        quote: >
-          Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
+        # quote: >
         description: | # this will include new lines to allow paragraphs
           Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
@@ -88,8 +87,8 @@ content:
     content:
       - layout: left
         title: University of British Columbia
-        link: <a href="https://www.eoas.ubc.ca/">Department of Earth Oceanic and Atmospheric Sciences</a>
-        # link_text: boringcompany.com
+        link: https://www.eoas.ubc.ca/
+        link_text: Department of Earth Oceanic and Atmospheric Sciences
         sub_title: Graduate Research Assistant
         caption: 2019 - Present
         # quote: >
@@ -98,8 +97,8 @@ content:
 
       - layout: left
         title: University of Colorado
-        link: <a href="https://www.colorado.edu/atoc/">Department of Atmospheric and Oceanic Sciences</a>
-        # link_text: boringcompany.com
+        link: https://www.colorado.edu/atoc/
+        link_text: Department of Atmospheric and Oceanic Sciences
         sub_title: Undergraduate Research Opportunity Fellow
         caption: Sept. 2017 - Feb. 2019
         # quote: >
