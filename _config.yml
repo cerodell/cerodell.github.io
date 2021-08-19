@@ -6,26 +6,24 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Christopher Rodell
+title: Ph.D. Student in Atmospheric Science
+email: crodell@eoas.ubc.ca
+website: https://github.com/cerodell
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  cerodell
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: christopher-rodell-bba8911b4
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +46,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am a Ph.D. Student in Atmospheric Science and have been part of the UBC Weather Forecast Research (WFR) Team since May of 2019. Originally from Colorado, I obtained a BA in Physical Geography and a BS in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also received a certificate in weather forecasting from Penn State University. My research focus is on coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns. I am currently developing low-cost, in situ instruments to observe/profile the vertical concentration of PM2.5 in wildfire smoke plumes. I am also working on a Numerical Weather Prediction derived Fire Weather Forecast Model to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
