@@ -55,10 +55,10 @@ content:
     content:
       - layout: left
         title: University of British Columbia Vancouver
-        caption: 2020 - Present
+        caption: 2019 - Present
         sub_title: Ph.D. Atmospheric Sciences
-        caption: 2019 - 2020
-        sub_title: M.S.  Atmospheric Sciences
+        # caption: 2019 - 2020
+        # sub_title: M.S.  Atmospheric Sciences
         quote: >
           Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
         description: | # this will include new lines to allow paragraphs
@@ -66,8 +66,17 @@ content:
 
       - layout: left
         title: University of Colorado Boulder
-        caption: 2017 -2018
-        sub_title: B.A. Atmospheric and Oceanic Sciences
+        caption: 2017 - 2018 <br> 2008 - 2013
+        sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
+        quote: >
+          Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
+        description: | # this will include new lines to allow paragraphs
+          Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
+
+      - layout: left
+        title: Pennsylvania State University
+        caption: 2015 -2016
+        sub_title: Certificate in Weather Forecasting
         quote: >
           Since 1915, UBC has evolved into a leading centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world and recently recognized as North America’s most international university. As our influence and global community grow, so does our obligation to maintain excellent brand standards.        
         description: | # this will include new lines to allow paragraphs
