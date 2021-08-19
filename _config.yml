@@ -219,7 +219,7 @@ content:
         
   
   - title: Certifications
-    layout: top-middle
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - National Wildfire Coordinating Group 
       - FEMA Incident Command System               	  
