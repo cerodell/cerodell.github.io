@@ -59,7 +59,7 @@ content:
         # caption: 2019 - 2020
         # sub_title: M.S.  Atmospheric Sciences
         quote: >
-            - David Bates Scholarship 2019/2020 <br>
+            - David Bates Scholarship 2019 <br>
             - W.H. Mathews Scholarship 2020
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
@@ -70,7 +70,7 @@ content:
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
         quote: >
           - Dean’s list: Fall 2017/Spring 2018 <br>
-          - Undergraduate Project: Characterizing Thunderstorm Outflow Boundaries in Complex Terrain
+          - Undergraduate Project: Characterizing Thunderstorm <br> Outflow Boundaries in Complex Terrain
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
@@ -116,7 +116,7 @@ content:
       - layout: left
         title: U.S. Forest Service
         caption: Nov. 2015 - Feb. 2017
-        sub_title: White River National Forest <br> Sampling Officer 
+        sub_title: White River National Forest <br> <i>Sampling Officer</i>
         # quote: >
         description: | # this will include new lines to allow paragraphs
           - Collected precipitation samples for the National Atmospheric Deposition Program (NADP).
@@ -131,7 +131,7 @@ content:
       - layout: left
         title: U.S. Forest Service
         caption: May 2015 - Oct. 2016
-        sub_title: White River National Forest <br> Forestry Technician GS-05-Trails Crew
+        sub_title: White River National Forest <br> <i>Forestry Technician GS-05-Trails Crew</i>
         # quote: >
         description: | # this will include new lines to allow paragraphs
           - Responsible for maintaining a diverse trail network located in arid desert and high alpine locations. 
@@ -144,24 +144,14 @@ content:
       - layout: left
         title: U.S. Forest Service
         caption: May 2014 - Nov. 2014
-        sub_title: White River National Forest 
-        quote: |
-          Forestry Technician GS-04-Developed Rec.
+        sub_title: White River National Forest <br> <i>Forestry Technician GS-04-Developed Rec.</i>
+        # quote: |
+          # Forestry Technician GS-04-Developed Rec.
         description: | # this will include new lines to allow paragraphs
           - The Maroon Bells, located approximately 5 miles from Aspen CO, is the most visited scenic area in one of the most visited National Forests in the Nation. 
           - Helped mitigate the damage to the area from overuse by educating the visitors through public contact. 
           - Strong communication skills were required as I often met people from foreign countries with limited or no English language skills.  
 
-
-  # - title: Publications and Conference Presentations
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     <b>Publications</b>
-  #     - Luchetti, N. T., Friedrich, K. & Rodell, C. E. Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
-  #     - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., Rodell, C., Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
-  #     - Luchetti, N. T., Friedrich, K. & Rodell, C. E & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
-  #     - Rodell, C., R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (being written for Wea. Forecasting)
-      
 
   - title: Publications and Conference Presentations # Title for the section
     layout: list # Type of content section (list/text)
@@ -200,6 +190,18 @@ content:
           - Luchetti, N. T., K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic, 2018: Evaluating Gust Front Interactions With Idealized Terrain in WRF-Fire. Earth System and Space Science Poster Conference. November, 2018, Boulder, CO.   
           - Luchetti, N. T.,  K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic,, 2018: Characterizing Thunderstorm Outflow Boundary in Complex Terrain. 29th American Meteorological Society Conference on Severe and Local Storms, October, 2018, Stowe, VT.
           - Luchetti, N. T., K. Friedrich, <b>C .Rodell</b>, J. Lundquist, B. Kosovic, 2017: Evaluating Thunderstorm Outflow Boundaries in WRF-Fire. Earth System and Space Science Poster Conference. November, 2017, Boulder, CO.  
+
+  - title: Certifications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - National Wildfire Coordinating Group 
+      - FEMA Incident Command System               	  
+      - National Incident Management System   		      	  
+      - B Intermediate Sawyer Crosscut                          
+      - Trailer Towing 			                                        	  
+      - Equipment Operator, Snowmobile/UVT                       
+      - Wilderness First Aid / CPR 
+      - American Institute for Avalanche Research and Education   (AIARE Level 1)      
 
 
 # Footer
