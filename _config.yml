@@ -59,7 +59,7 @@ content:
         # caption: 2019 - 2020
         # sub_title: M.S.  Atmospheric Sciences
         quote: >
-            - David Bates Scholarship 2019/2020
+            - David Bates Scholarship 2019/2020 <br>
             - W.H. Mathews Scholarship 2020
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
@@ -69,7 +69,7 @@ content:
         caption: 2017 - 2018 <br> 2008 - 2013
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
         quote: >
-          - Dean’s list: Fall 2017/Spring 2018
+          - Dean’s list: Fall 2017/Spring 2018 <br>
           - Undergraduate Project: Characterizing Thunderstorm Outflow Boundaries in Complex Terrain
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
@@ -169,7 +169,7 @@ content:
       - layout: top-middle
         title: Publications
         description: |
-          - Luchetti, N. T., Friedrich, K. & <p><b>Rodell, C. E.</b></p> Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
+          - Luchetti, N. T., Friedrich, K. & <b>Rodell, C. E.</b> Evaluating Thunderstorm Gust Fronts in New Mexico and Arizona. Mon. Weather Rev. 4943–4956 (2020) https://doi.org/10.1175/MWR-D-20-0204.1
           - Thompson, D.K., Schroeder, D., Wilkinson, S.L., Barber, Q., Baxter, G., Cameron, H., Hsieh, R., Marshall, G., Moore, B., Refai, R., <p><b>Rodell, C.</b></p>, Schiks, T., Verkaik, G.J., Zerb, J., 2020: Recent Crown Thinning in a Boreal Black Spruce Forest Does Not Reduce Spread Rate nor Total Fuel Consumption: Results from an Experimental Crown Fire in Alberta, Canada. Fire, 3, 28. (https://doi.org/10.3390/fire3030028.)
           - Luchetti, N. T., Friedrich, K. & <p><b>Rodell, C. E</b></p> & Lundquist, J. K. Characterizing thunderstorm gust fronts near complex terrain. Mon. Weather Rev. 148, 3267–3286 (2020).
           - <p><b>Rodell, C.</b></p>, R. Howard, R. Stull, 2021: A Fire Weather Index Forecast System for Canada. (In Preparation 2021)
