@@ -58,10 +58,10 @@ content:
         sub_title: Ph.D. Atmospheric Sciences
         # caption: 2019 - 2020
         # sub_title: M.S.  Atmospheric Sciences
-        # quote: >
-        #   Tuum Est
-        description: | # this will include new lines to allow paragraphs
-          Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
+        quote: >
+            Department of Earth, Ocean and Atmospheric Sciences
+        # description: | # this will include new lines to allow paragraphs
+        #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
       - layout: top-middle
         title: University of Colorado Boulder
@@ -69,16 +69,15 @@ content:
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
         # quote: >
         #   Λαμψάτω τὸ φῶς ὑμῶν
-        description: | # this will include new lines to allow paragraphs
-          Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
+        # description: | # this will include new lines to allow paragraphs
+        #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
       - layout: top-middle
         title: Pennsylvania State University
         caption: 2015 -2016
         sub_title: Certificate in Weather Forecasting
         # quote: >
-        description: | # this will include new lines to allow paragraphs
-          Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
+        # description: | # this will include new lines to allow paragraphs
 
 
 
