@@ -128,18 +128,6 @@ content:
     content:
       - layout: left
         title: U.S. Forest Service
-        caption: Nov. 2015 - Feb. 2017
-        sub_title: White River National Forest <br> Sampling Officer 
-        # quote: >
-        description: | # this will include new lines to allow paragraphs
-          - Collected precipitation samples for the National Atmospheric Deposition Program (NADP).
-          - Every Tuesday, regardless of weather conditions, I obtained digital and physical samples from two gauge sites located at an elevation of approximately 11,800 feet. 
-          - Commuted to each location on snowmobile or utility terrain vehicle (UTV) to ensure the NADP received data to support their research. 
-          - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample. 
-          - Gauge sites also required routine equipment maintenance and on occasion emergency repairs were required (regardless of weather conditions).
-  
-      - layout: left
-        title: U.S. Forest Service
         caption: May 2015 - Oct. 2016
         sub_title: White River National Forest <br> Forestry Technician GS-05-Trails Crew
         # quote: >
@@ -154,8 +142,9 @@ content:
       - layout: left
         title: U.S. Forest Service
         caption: May 2014 - Nov. 2014
-        sub_title: White River National Forest <br> Forestry Technician GS-04-Developed Rec.
-        # quote: >
+        sub_title: White River National Forest 
+        quote: >
+          Forestry Technician GS-04-Developed Rec.
         description: | # this will include new lines to allow paragraphs
           - The Maroon Bells, located approximately 5 miles from Aspen CO, is the most visited scenic area in one of the most visited National Forests in the Nation. 
           - Helped mitigate the damage to the area from overuse by educating the visitors through public contact. 
@@ -173,6 +162,8 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+
 
 # Footer
 footer_show_references: true
