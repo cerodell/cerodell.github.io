@@ -9,7 +9,7 @@ version: 2
 name: Christopher Rodell
 title: Ph.D. Student in Atmospheric Science
 email: crodell@eoas.ubc.ca
-website: https://github.com/cerodell
+# website: https://github.com/cerodell
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -44,7 +44,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BA in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also have earned a certificate in weather forecasting from Penn State University. My research interests include coupled atmosphere-wildland fire behavior modeling, forest fuel moisture forecasts, wildfire smoke forecasting, and field observations of controlled burns.  A current project of mine is developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
+  I am a Ph.D. Student in Atmospheric Science at the University of British Colombia. Originally from Colorado, I obtained a BA in Physical Geography and a BA in Atmospheric and Oceanic Sciences from the University of Colorado, Boulder. During that time, I also have earned a certificate in weather forecasting from Penn State University. My research interests include:
+    - coupled atmosphere-wildland fire behavior modeling
+    - forest fuel moisture forecasts
+    - wildfire smoke forecasting
+    - and field observations of controlled burns.
+  A current project of mine is developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
 
 content:
   - title: Education # Title for the section
