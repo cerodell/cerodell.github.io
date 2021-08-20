@@ -52,7 +52,7 @@ content:
     content:
       - layout: top-middle
         title: University of British Columbia Vancouver
-        caption: 2019 - Present <br> <br> <b><i>David Bates Scholarship 2019 <br> W.H. Mathews Scholarship 2020</i></b>
+        caption: 2019 - Present <br> <b><i>David Bates Scholarship 2019 <br> W.H. Mathews Scholarship 2020</i></b>
         sub_title: Ph.D. Atmospheric Sciences
         # quote: >
         #     - David Bates Scholarship 2019 <br>
@@ -62,7 +62,7 @@ content:
 
       - layout: top-middle
         title: University of Colorado Boulder
-        caption: 2017 - 2018 <br> 2008 - 2013 <br> <br> <b><i>Dean’s list Fall 2017/Spring 2018 <br> Undergraduate Research Fellow; Characterizing Thunderstorm <br> Outflow Boundaries in Complex Terrain</i></b>
+        caption: 2017 - 2018 <br> 2008 - 2013 <br> <b><i>Dean’s list Fall 2017/Spring 2018 <br> Undergraduate Research Fellow; Characterizing Thunderstorm <br> Outflow Boundaries in Complex Terrain</i></b>
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
         # quote: >
         # description: | # this will include new lines to allow paragraphs
