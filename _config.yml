@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
     - coupled atmosphere-wildland fire behavior modeling
     - forest fuel moisture forecasts
     - wildfire smoke forecasting
-    - and field observations of controlled burns.
+    - and field observations of controlled burns. <br>
   A current project of mine is developing a Numerical Weather Prediction derived <a target="_blank" href="https://cerodell.github.io/fwf-docs/build/html/index.html">Fire Weather Forecast Model</a> to assess the moisture content within varied layers of the forest fuels (vegetation). My outside interests include snowboarding, climbing, backpacking, and biking.
 
 content:
@@ -110,7 +110,7 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           - Assisting Dr. Katja Friedrich and Nicholas Luchetti (Ph.D. student) in evaluating thunderstorm outflow boundaries in WRF-Fire. 
-          - My tasks included detecting and analyzing 26 observed outflow boundaries in the Colorado Front Range for the purposes of validating WRF’s ability to accurately model gust fronts.
+          - My tasks included detecting and analyzing 26 observed outflow boundaries in the Colorado Front Range to validate WRF’s ability to accurately model gust fronts.
           - Analyzed the characteristics of each individual outflow boundary using a variety of remote sensing and in-situ instruments. 
           Depth, length, propagation speed/direction, temperature/pressure change, turbulence, and maximum velocity throughout the boundary layer were quantified and categorized depending on the thunderstorm type, terrain, and ambient atmospheric conditions. 
           - <a target="_blank" href="http://clouds.colorado.edu/fire/">For more information</a>                                                            
@@ -128,9 +128,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Collected precipitation samples for the <a target="_blank" href="http://nadp.slh.wisc.edu/">National Atmospheric Deposition Program</a> (NADP).
           - Obtained digital and physical samples from two gauge sites located at an elevation of approximately 11,800 feet.
-          - Commuted to each location on snowmobile or utility terrain vehicle (UTV) to ensure the NADP received data to support their research.
-          - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non contaminated weighed precipitation sample.
-          - Gauge sites also required routine equipment maintenance and on occasion emergency repairs were required (regardless of weather conditions).
+          - Commuted to each location on a snowmobile or utility terrain vehicle (UTV) to ensure the NADP received data to support their research.
+          - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non-contaminated weighed precipitation sample.
+          - Gauge sites also required routine equipment maintenance, and on occasion, emergency repairs were needed (regardless of weather conditions).
 
   - title: Additional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -144,12 +144,12 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           - Responsible for maintaining a diverse trail network located in arid desert and high alpine locations. 
-          - The level of trail repair and maintenance varied in each climatic zone as a result of variable soil composition and respected rates of erosion. 
+          - The level of trail repair and maintenance varied in each climatic zone due to variable soil composition and respected rates of erosion. 
           - Dispatched for days at a time in remote areas where the only way to communicate was via satellite phone. 
-          - Extended assignments required on the spot creative problem solving with limited resources.
-          - The work was dangerous and strenuous requiring the use of varied safety measures. 
-          - Completed USFS National Fire Response training and was dispatched to fight multiple fires in 2016 fire season.
-      
+          - Extended assignments required on-the-spot creative problem solving with limited resources.
+          - The work was dangerous and strenuous, requiring the use of various safety measures. 
+          - Completed USFS National Fire Response training and was dispatched to fight multiple fires in the 2016 fire season.
+
       - layout: left
         title: U.S. Forest Service
         link: https://www.fs.usda.gov/whiteriver
