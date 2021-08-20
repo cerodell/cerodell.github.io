@@ -52,18 +52,17 @@ content:
     content:
       - layout: top-middle
         title: University of British Columbia Vancouver
-        caption: 2019 - Present
+        caption: 2019 - Present <br> <br> <b><i>David Bates Scholarship 2019 <br> W.H. Mathews Scholarship 2020</i></b>
         sub_title: Ph.D. Atmospheric Sciences
-
-        quote: >
-            - David Bates Scholarship 2019 <br>
-            - W.H. Mathews Scholarship 2020
+        # quote: >
+        #     - David Bates Scholarship 2019 <br>
+        #     - W.H. Mathews Scholarship 2020
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
       - layout: top-middle
         title: University of Colorado Boulder
-        caption: 2017 - 2018 <br> 2008 - 2013 <br> <br> <i>Dean’s list Fall 2017/Spring 2018 <br> Undergraduate Research Fellow; Characterizing Thunderstorm</i> <br> Outflow Boundaries in Complex Terrain
+        caption: 2017 - 2018 <br> 2008 - 2013 <br> <br> <b><i>Dean’s list Fall 2017/Spring 2018 <br> Undergraduate Research Fellow; Characterizing Thunderstorm <br> Outflow Boundaries in Complex Terrain</i></b>
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
         # quote: >
         # description: | # this will include new lines to allow paragraphs
@@ -201,14 +200,11 @@ content:
     content:
       - layout: top-middle
         title: Programing
-        quote: >
-          <b>Python, JAVASCRIPT/HTML/CSS, Bash, Unix/Linux,  <br>
-          Arduino, C ++, MATLAB, IDL, NCL, Julia, R <br> 
-          VSCode, Git</b>
+        caption: <b>Python, JAVASCRIPT/HTML/CSS, Bash, Unix/Linux,  <br> Arduino, C ++, MATLAB, IDL, NCL, Julia, R <br> VSCode, Git</b>
 
       - layout: top-middle
         title: Modeling
-        quote: >
+        caption:
           <b><a target="_blank" href ="https://www.mmm.ucar.edu/weather-research-and-forecasting-model">Weather Research Forecast Model (WRF)</a></b> <br>
           <b><a target="_blank" href ="https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki">Weather Research Forecast Model SFIRE (WRF-SFIRE)</a></b> <br>
           <b><a target="_blank" href ="https://sites.google.com/firenet.gov/wfaqrp-airfire/data/bluesky">Bluesky Smoke Forecast Model</a></b> <br>
