@@ -211,10 +211,10 @@ content:
       - layout: top-middle
         title: Modeling
         quote: >
-          <a target="_blank" href ="https://www.mmm.ucar.edu/weather-research-and-forecasting-model">Weather Research Forecast Model (WRF)</a> <br>
-          <a target="_blank" href ="https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki">Weather Research Forecast Model SFIRE (WRF-SFIRE)</a> <br>
-          <a target="_blank" href ="https://sites.google.com/firenet.gov/wfaqrp-airfire/data/bluesky">Bluesky Smoke Forecast Model</a> <br>
-          <a target="_blank" href ="https://www.ready.noaa.gov/HYSPLIT.php">HYSPLIT</a> <br>
+          <b><a target="_blank" href ="https://www.mmm.ucar.edu/weather-research-and-forecasting-model">Weather Research Forecast Model (WRF)</a></b> <br>
+          <b><a target="_blank" href ="https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki">Weather Research Forecast Model SFIRE (WRF-SFIRE)</a></b> <br>
+          <b><a target="_blank" href ="https://sites.google.com/firenet.gov/wfaqrp-airfire/data/bluesky">Bluesky Smoke Forecast Model</a></b> <br>
+          <b><a target="_blank" href ="https://www.ready.noaa.gov/HYSPLIT.php">HYSPLIT</a></b> <br>
         
   
   - title: Certifications
