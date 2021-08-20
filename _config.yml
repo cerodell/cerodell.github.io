@@ -63,10 +63,9 @@ content:
 
       - layout: top-middle
         title: University of Colorado Boulder
-        caption: 2017 - 2018 <br> 2008 - 2013
+        caption: 2017 - 2018 <br> 2008 - 2013 <br> <br> <i>Dean’s list Fall 2017/Spring 2018 <br> Undergraduate Research Fellow; Characterizing Thunderstorm</i> <br> Outflow Boundaries in Complex Terrain
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
-        quote: >
-          <p style="align:center font-size:16px"><i>Dean’s list: Fall 2017/Spring 2018 <br> Undergraduate Research Fellow: Characterizing Thunderstorm</i> <br> Outflow Boundaries in Complex Terrain </p>
+        # quote: >
         # description: | # this will include new lines to allow paragraphs
         #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
