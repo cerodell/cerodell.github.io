@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Christopher Rodell
-title: Ph.D. Student in Atmospheric Science
+title: Ph.D. Canidate in Atmospheric Science
 email: crodell@eoas.ubc.ca
 # website: https://github.com/cerodell
 
@@ -52,7 +52,7 @@ content:
     content:
       - layout: top-middle
         title: University of British Columbia Vancouver
-        caption: 2019 - Present <br> <b><i>David Bates Scholarship 2019 <br> W.H. Mathews Scholarship 2020</i></b>
+        caption: 2019 - Present <br> <b><i>David Bates Scholarship 2019 <br> W.H. Mathews Scholarship 2020 <br> 7th International Fire Behavior and Fuels Conference Scholarship 2024 </i></b>
         sub_title: Ph.D. Atmospheric Sciences
         # quote: >
         #     - David Bates Scholarship 2019 <br>
