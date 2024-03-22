@@ -199,6 +199,11 @@ content:
           - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non-contaminated weighed precipitation sample.
           - Gauge sites also required routine equipment maintenance, and on occasion, emergency repairs were needed (regardless of weather conditions).
 
+      - layout: left
+        title: U.S. Forest Service
+        link: https://www.fs.usda.gov/whiteriver
+        link_text: White River National Forest
+        caption: April 2016 - Feb. 2017
         sub_title: Forestry Technician GS-05-Trails Crew
         # quote: >
         description: | # this will include new lines to allow paragraphs
@@ -209,6 +214,11 @@ content:
           - The work was dangerous and strenuous, requiring the use of various safety measures. 
           - Completed USFS National Fire Response training and was dispatched to fight multiple fires in the 2016 fire season.
 
+      - layout: left
+        title: U.S. Forest Service
+        link: https://www.fs.usda.gov/whiteriver
+        link_text: White River National Forest
+        caption: April 2015 - Nov. 2015
         sub_title: Forestry Technician GS-04-Developed Rec.
         # quote: |
           # Forestry Technician GS-04-Developed Rec.
