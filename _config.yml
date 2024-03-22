@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Christopher Rodell
-title: Ph.D. Canidate in Atmospheric Science
+title: Ph.D. Candidate in Atmospheric Science
 email: crodell@eoas.ubc.ca
 # website: https://github.com/cerodell
 
@@ -60,28 +60,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-      - title: University of British Columbia Vancouver
+        title: University of British Columbia Vancouver
+        caption: 2019 - Present <br> <b><i>David Bates Scholarship 2019 <br> W.H. Mathews Scholarship 2020 <br> 7th International Fire Behavior and Fuels Conference Scholarship 2024 </i></b>
         sub_title: Ph.D. Atmospheric Sciences
-        caption: 2019 - Present
-        description: >
-          - David Bates Scholarship 2019
-          - W.H. Mathews Scholarship 2020
-          - 7th International Fire Behavior and Fuels Conference Scholarship 2024
+
 
       - layout: top-middle
         title: University of Colorado Boulder
         caption: 2017 - 2018 <br> 2008 - 2013 <br> <b><i>Dean’s list Fall 2017/Spring 2018 <br> Undergraduate Research Fellow; Characterizing Thunderstorm <br> Outflow Boundaries in Complex Terrain</i></b>
         sub_title: B.A. Atmospheric and Oceanic Sciences <br> B.A. Physical Geography 
-        # quote: >
-        # description: | # this will include new lines to allow paragraphs
-        #   Research Assistant in the Department of Earth, Ocean and Atmospheric Sciences
 
       - layout: top-middle
         title: Pennsylvania State University
         caption: 2015 -2016
         sub_title: Certificate in Weather Forecasting
-        # quote: >
-        # description: | # this will include new lines to allow paragraphs
+
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -92,26 +85,26 @@ content:
         sub_title: Graduate Research Assistant
         caption: 2019 - Present
         # quote: >
-        description: |
-          - Developing a Numerical Weather Prediction derived Fire Weather Forecast Model to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
-            - This hourly forest fuel moisture forecast is being integrated into a fire growth and fuel emissions model to aid in smoke forecast predictions in the Bluesky Canada smoke forecast system.
-            - A webpage was created for displaying the Fire Weather Forecast products, associated meteorology, and current wildfire locations on a zoomable map with popup point forecast functionality. For more information, visit the Fire Weather Forecast website.
-          - Constructed low-cost, in situ instruments to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes. These disposable Particulate Matter Sensors, calibrated against an industry-standard GRIMM OPC, provide a low-cost way to collect data to better understand wildfire smoke dynamics and forecasting. The sensors, built with off-the-shelf components, cost approximately $100 to build. For more information, visit the Fire Sensors website.
-          - Co-creator and Instructor (with Dr. Stull) of a new fourth-year Synoptic Fire Weather Forecasting Course, which includes the following topics:
-            - Analyze and interpret weather-observation data,
-            - Interpret numerical weather prediction models,
-            - Apply meteorological principles to fire behavior,
-            - Compare alternative fire spread/danger outcomes given weather forecast uncertainty,
-            - Develop fire response plan of the day materials (as if they were professional fire-weather forecasters).
-          - Each Friday, a graduate or fourth-year undergraduate student in the Atmospheric Science Department is required to do a weekend weather forecast. I am considered the Graduate Student Subject Matter Expert and assist the student in developing their one-hour forecast.
-          - Teacher Assistant for Dr. Stull's Weather Instruments Course
-          - Assist with developing grant proposals that fund various research projects within the department.
+      description: |
+        - Developing a Numerical Weather Prediction derived Fire Weather Forecast Model to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
+          - This hourly forest fuel moisture forecast is being integrated into a fire growth and fuel emissions model to aid in smoke forecast predictions in the Bluesky Canada smoke forecast system.
+          - A webpage was created for displaying the Fire Weather Forecast products, associated meteorology, and current wildfire locations on a zoomable map with popup point forecast functionality. For more information, visit the Fire Weather Forecast website.
+        - Constructed low-cost, in situ instruments to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes. These disposable Particulate Matter Sensors, calibrated against an industry-standard GRIMM OPC, provide a low-cost way to collect data to better understand wildfire smoke dynamics and forecasting. The sensors, built with off-the-shelf components, cost approximately $100 to build. For more information, visit the Fire Sensors website.
+        - Co-creator and Instructor (with Dr. Stull) of a new fourth-year Synoptic Fire Weather Forecasting Course, which includes the following topics:
+          - Analyze and interpret weather-observation data,
+          - Interpret numerical weather prediction models,
+          - Apply meteorological principles to fire behavior,
+          - Compare alternative fire spread/danger outcomes given weather forecast uncertainty,
+          - Develop fire response plan of the day materials (as if they were professional fire-weather forecasters).
+        - Each Friday, a graduate or fourth-year undergraduate student in the Atmospheric Science Department is required to do a weekend weather forecast. I am considered the Graduate Student Subject Matter Expert and assist the student in developing their one-hour forecast.
+        - Teacher Assistant for Dr. Stull's Weather Instruments Course
+        - Assist with developing grant proposals that fund various research projects within the department.
 
-          - Notable Coursework:
-            - Data Analysis in Atmospheric, Earth, and Ocean Sciences
-            - Boundary-Layer Meteorology
-            - Numerical Weather Prediction (NWP)
-            - Numerical Techniques for Ocean, Atmosphere, and Earth Scientists
+        - Notable Coursework:
+          - Data Analysis in Atmospheric, Earth, and Ocean Sciences
+          - Boundary-Layer Meteorology
+          - Numerical Weather Prediction (NWP)
+          - Numerical Techniques for Ocean, Atmosphere, and Earth Scientists
 
       - layout: left
         title: University of Colorado
@@ -121,11 +114,21 @@ content:
         caption: Sept. 2017 - Feb. 2019
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          - Assisting Dr. Katja Friedrich and Nicholas Luchetti (Ph.D. student) in evaluating thunderstorm outflow boundaries in WRF-Fire. 
-          - My tasks included detecting and analyzing 26 observed outflow boundaries in the Colorado Front Range to validate WRF’s ability to accurately model gust fronts.
-          - Analyzed the characteristics of each individual outflow boundary using a variety of remote sensing and in-situ instruments. 
-          Depth, length, propagation speed/direction, temperature/pressure change, turbulence, and maximum velocity throughout the boundary layer were quantified and categorized depending on the thunderstorm type, terrain, and ambient atmospheric conditions. 
-          - <a target="_blank" href="http://clouds.colorado.edu/fire/">For more information</a>                                                            
+          -	Assisted Dr. Katja Friedrich and Nicholas Luchetti (Ph.D. student) in evaluating thunderstorm outflow boundaries in WRF-Fire. 
+          - Tasks included
+            - Detecting and analyzing 26 observed outflow boundaries in the Colorado Front Range to validate WRF's ability to accurately model gust fronts.
+            - Analyzing the characteristics of each individual outflow boundary using a variety of remote sensing and in-situ instruments. Depth, length, propagation speed/direction, temperature/pressure change, turbulence, and maximum velocity throughout the boundary layer was quantified and categorized depending on the thunderstorm type, terrain, and ambient atmospheric conditions.
+            - <a target="_blank" href="http://clouds.colorado.edu/fire/">For more information</a>           
+                                                             
+          - Notable Coursework:
+            - Scientific Computing in Atmospheric Science 
+            - Atmospheric Radiative Transfer and Remote Sensing
+            - Atmospheric Dynamics
+            - Numerical Methods and Modeling in Atmospheric Science
+            - Atmospheric Dynamics
+            - Atmospheric Physics
+            - Synoptic Meteorology
+            - Applied Mathematics (Differential and Partial Differential Equations)
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
