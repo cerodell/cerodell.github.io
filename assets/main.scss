@@ -1,5 +1,18 @@
----
-# Front matter comment to ensure Jekyll properly reads file.
----
+// ---
+// # Front matter comment to ensure Jekyll properly reads file.
+// ---
 
-@import 'modern-resume-theme';
+// @import 'modern-resume-theme';
+
+
+// "Reset" styles and SCSS reusable components
+@import "normalize";
+@import "mixins";
+@import "variables";
+
+// Generic site base & layout styles
+@import "base";
+@import "layout";
+
+// Layouts
+@import "resume";
