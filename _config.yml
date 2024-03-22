@@ -97,6 +97,7 @@ content:
         caption: 2019 - Present
         # quote: >
         description: | # this will include new lines to allow paragraphs
+        <ul>
           <li> Developing a Numerical Weather Prediction derived Fire Weather Forecast Model to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.</li>
             <ul>
               <li> This hourly forest fuel moisture forecast is being integrated into a fire growth and fuel emissions model to aid in smoke forecast predictions in the Bluesky Canada smoke forecast system.</li>
@@ -104,16 +105,17 @@ content:
             </ul>
           <li> Constructed low-cost, in situ instruments to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes. These disposable Particulate Matter Sensors, calibrated against an industry-standard GRIMM OPC, provide a low-cost way to collect data to better understand wildfire smoke dynamics and forecasting. The sensors, built with off-the-shelf components, cost approximately $100 to build. (https://cerodell.github.io/fire_sensors/).</li>
           <li> Co-creator and Instructor (with Dr. Stull) of a new fourth-year Synoptic Fire Weather Forecasting Course, which includes the following topics:</li>
-              <ul>
+            <ul>
               <li>	Analyze and interpret weather-observation data, </li>
-            <li>	Interpret numerical weather prediction models, </li>
-            <li>	Apply meteorological principles to fire behavior, </li>
-            <li>	Compare alternative fire spread/danger outcomes given weather forecast uncertainty, </li>
-            <li>	Develop fire response plan of the day materials (as if they were professional fire-weather forecasters.) </li>
+              <li>	Interpret numerical weather prediction models, </li>
+              <li>	Apply meteorological principles to fire behavior, </li>
+              <li>	Compare alternative fire spread/danger outcomes given weather forecast uncertainty, </li>
+              <li>	Develop fire response plan of the day materials (as if they were professional fire-weather forecasters.) </li>
+            </ul>
           <li> Each Friday, a graduate or fourth-year undergraduate student in the Atmospheric Science Department is required to do a weekend weather forecast. I am considered the Graduate Student Subject Matter Expert and assist the student in developing their one-hour forecast.</li>
           <li> Teacher Assistant for Dr. Stull's Weather Instruments Course</li>
           <li> Assist with developing grant proposals that fund various research projects within the department.</li>
-
+        </ul>
           <u>Notable Coursework</u> 
           - Data Analysis in Atmospheric, Earth, and Ocean Sciences 
           - Boundary-Layer Meteorology
