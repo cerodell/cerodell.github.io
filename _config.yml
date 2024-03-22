@@ -218,7 +218,7 @@ content:
         title: Publications
         description: |
           - <b>Rodell, C.</b> (In preparation, March 2024). Modernizing Fire Weather Forecasting with Numerical Weather Predictions. University of British Columbia.
-          - <b>Rodell, C.</b>, Howard, R., Jain, P., & Stull, R. B. (In preparation, March 2024). Standardizing Fire Danger: Using high-resolution reanalysis to standardize fire weather predictions. Weather and Forecasting.
+          - <b>Rodell, C.</b>, Howard, R., Jain, P., & Stull, R. B. (In preparation, March 2024). Fire Danger Forecasting: Using high-resolution reanalysis to standardize fire weather predictions. Weather and Forecasting.
           - <b>Rodell, C.</b>, Howard, R., Jain, P., Moisseeva, N., Chui, T., & Stull, R. B. (Accepted February 2024). Predicting Hourly Wildfire Risk: Enhancing Fire Danger Assessment with High-Resolution Numerical Weather Modeling. Weather and Forecasting.
           - <b>Rodell, C.</b>, Howard, R., Jain, P., Moisseeva, N., Chui, T., & Stull, R. B. (2024). An Hourly and Daily Fire Weather Index Dataset 2021-2023. Numerical Federated Research Data Repository. Federated Research Data Repository. <a href="https://doi.org/10.20383/102.0314">https://doi.org/10.20383/102.0314</a>
           - Fei, C., White, R., & <b>Rodell, C.</b> (2023). The unprecedented Pacific Northwest heatwave of June 2021. Bulletin of the Canadian Meteorological and Oceanographic Society. <a href="https://bulletin.cmos.ca/the-unprecedented-pacific-northwest-heatwave-of-june-2021/">https://bulletin.cmos.ca/the-unprecedented-pacific-northwest-heatwave-of-june-2021/</a>
@@ -231,21 +231,15 @@ content:
       - layout: top-middle
         title: Oral Presentations
         description: |
-         - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., Schigas, R., Chui, T. (18-21 Nov 2019): Plume rise and dispersion: BlueSky Canada, Research and field observations.  Wildland Fire Canada 2019.  Ottawa, ON. 
-         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 12 Feb 2020: Wildfire behavior and smoke research at UBC.  BC Environment Interagency Air Quality meeting.  ECCC Vancouver.  (f2f)
-         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 19 Mar 2020: Wildfire behavior and smoke research at UBC.  Natural Resources Canada, Edmonton. (online)
-         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 14 April 2020: Wildfire behavior and smoke research at UBC. Forest Fire Working Group Meeting. (online)
-         - Stull, R., Moisseeva, N., Howard, R., <b>Rodell, C.</b>, 15 April 2020: Wildfire behavior and smoke research at UBC. Cascadia Wildfire and Urban Smoke Working Group. (online)
-         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 18 April 2020: Wildfire behaviour and smoke research at UBC: Research Leading to Improvement in Operational Smoke and Fire Index Forecasting. Forest Fire Working Group Meeting, ECCC. (remote) 
-         - Moisseeva, N., Howard, R., <b>Rodell, C.</b>, Stull, R., 10 June 2020: Wildfire behaviour and smoke research at UBC: Research Leading to Improvement in Operational Smoke and Fire Index Forecasting. BC Wildfire. (remote)
-         - Moisseeva, N., Howard, R., Schmidt, T., Deere, A., Schigas, R., <b>Rodell, C.</b>, Stull, R., 7 July 2020: Wildfire behaviour and smoke research at UBC: Update. Natural Resources Canada. (remote)
-         - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., 18 September 2020: Particulate Matter Sensors: Vertical Profile of a Wildland Fire Smoke Plume by In-situ Observation. Atmospheric Chemistry Research Group, UBC. (remote)
-         - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., 2 Nov. 2020: Fire Weather Forecasts: Numerical Weather Prediction Derived Fire Weather Index System. Government of the Northwest Territories, Fort Smith, NT. (remote)
-         - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., 14 April 2021: Particulate Matter Sensors: Vertical Profile of a Wildland Fire Smoke Plume by In-situ Observation. United States Forest Service AirFire Research Group, Seattle, USA. (remote)
-         - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., May 13th 2021:  Numerical weather prediction (NWP) derived Canadian Fire Weather Indices (FWI). American Meteorological Society 13th Fire and Forest Meteorology Symposium. (remote)
-         - <b>Rodell, C.</b>, Moisseeva, N., Chui, T., Howard, R., Stull, R., June 3rd 2021: Improving the Spatial and Temporal Resolution of the Existing Fire Weather Index System for Operational Use by Wildfire Agencies. Canadian Meteorological and Oceanographic Society 55th Congress. (remote)
-         - Moisseeva, N., <b>Rodell, C.</b>, Wang, J., Howard, R., Chui, T., Schigas, R., Stull, R., 2 June 2021: The Evaluation of Numerically-Driven Wildfire Smoke Plume Rise and Fire Behaviour System. 55th CMOS Congress. (remote)
-                
+          - <b>Rodell, C.</b>, Howard, R., Jain, P., Moisseeva, N., Chui, T., & Stull, R. B. (15 - 19 April 2024). Predicting Hourly Wildfire Risk: Enhancing Fire Danger Assessment with High-Resolution Numerical Weather Modeling. Presented at 7th International Fire Behavior and Fuels Conference 2024, Boise, ID.
+          - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., & Stull, R. (31 Oct - 3 Nov 2022). Improving Fire Weather Forecasts. Presented at Wildland Fire Canada 2022, Edmonton, AB.
+          - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., Schigas, R., & Chui, T. (31 Oct - 3 Nov 2022). On the use of high-resolution simulations of experimental burns to determine instrumentation placement. Presented at Wildland Fire Canada 2022, Edmonton, AB.
+          - <b>Rodell, C.</b>, & Stull, R. (29 July 2021). A Synoptic Breakdown of The Extraordinary Heatwave on The Pacific Coast Of The US And Canada in June 2021. Presented to the University of British Columbia Department of Physics.
+          - <b>Rodell, C.</b>, Moisseeva, N., Chui, T., Howard, R., & Stull, R. (3 June 2021). Improving the Spatial and Temporal Resolution of the Existing Fire Weather Index System for Operational Use by Wildfire Agencies. Presented at the Canadian Meteorological and Oceanographic Society 55th Congress.
+          - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., & Stull, R. (13 May 2021). Numerical weather prediction (NWP) derived Canadian Fire Weather Indices (FWI). Presented at the American Meteorological Society 13th Fire and Forest Meteorology Symposium.
+          - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Schmidt, T., Deere, A., Schigas, R., & Stull, R. (7 July 2020). Wildfire behaviour and smoke research at UBC: Update. Presented to Natural Resources Canada.
+          - <b>Rodell, C.</b>, Moisseeva, N., Howard, R., Stull, R., Schigas, R., & Chui, T. (18-21 Nov 2019). Plume rise and dispersion: BlueSky Canada, Research and field observations. Presented at Wildland Fire Canada 2019, Ottawa, ON.
+
       - layout: top-middle
         title: Posters Presentations
         description: |
