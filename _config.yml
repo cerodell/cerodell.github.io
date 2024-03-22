@@ -116,11 +116,13 @@ content:
           <li> Teacher Assistant for Dr. Stull's Weather Instruments Course</li>
           <li> Assist with developing grant proposals that fund various research projects within the department.</li>
         </ul>
+        <ul>
           <u>Notable Coursework</u> 
           - Data Analysis in Atmospheric, Earth, and Ocean Sciences 
           - Boundary-Layer Meteorology
           - Numerical Weather Prediction (NWP)
           - Numerical Techniques for Ocean, Atmosphere, and Earth Scientists
+        </ul>
 
 
       - layout: left
