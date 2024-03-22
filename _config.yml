@@ -97,6 +97,7 @@ content:
         caption: 2019 - Present
         # quote: >
         description: | # this will include new lines to allow paragraphs
+        - 
         <ul>
           <li>Developing a Numerical Weather Prediction derived Fire Weather Forecast Model to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
             <ul>
