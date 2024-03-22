@@ -85,26 +85,26 @@ content:
         sub_title: Graduate Research Assistant
         caption: 2019 - Present
         # quote: >
-      description: |
-        - Developing a Numerical Weather Prediction derived Fire Weather Forecast Model to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
-          - This hourly forest fuel moisture forecast is being integrated into a fire growth and fuel emissions model to aid in smoke forecast predictions in the Bluesky Canada smoke forecast system.
-          - A webpage was created for displaying the Fire Weather Forecast products, associated meteorology, and current wildfire locations on a zoomable map with popup point forecast functionality. For more information, visit the Fire Weather Forecast website.
-        - Constructed low-cost, in situ instruments to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes. These disposable Particulate Matter Sensors, calibrated against an industry-standard GRIMM OPC, provide a low-cost way to collect data to better understand wildfire smoke dynamics and forecasting. The sensors, built with off-the-shelf components, cost approximately $100 to build. For more information, visit the Fire Sensors website.
-        - Co-creator and Instructor (with Dr. Stull) of a new fourth-year Synoptic Fire Weather Forecasting Course, which includes the following topics:
-          - Analyze and interpret weather-observation data,
-          - Interpret numerical weather prediction models,
-          - Apply meteorological principles to fire behavior,
-          - Compare alternative fire spread/danger outcomes given weather forecast uncertainty,
-          - Develop fire response plan of the day materials (as if they were professional fire-weather forecasters).
-        - Each Friday, a graduate or fourth-year undergraduate student in the Atmospheric Science Department is required to do a weekend weather forecast. I am considered the Graduate Student Subject Matter Expert and assist the student in developing their one-hour forecast.
-        - Teacher Assistant for Dr. Stull's Weather Instruments Course
-        - Assist with developing grant proposals that fund various research projects within the department.
+        description: |
+          - Developing a Numerical Weather Prediction derived Fire Weather Forecast Model to assess the moisture content within varied layers of the forest fuels (vegetation) for daily use by operational wildland firefighters.
+            - This hourly forest fuel moisture forecast is being integrated into a fire growth and fuel emissions model to aid in smoke forecast predictions in the Bluesky Canada smoke forecast system.
+            - A webpage was created for displaying the Fire Weather Forecast products, associated meteorology, and current wildfire locations on a zoomable map with popup point forecast functionality. For more information, visit the Fire Weather Forecast website.
+          - Constructed low-cost, in situ instruments to observe and profile the vertical concentration of PM2.5 in wildfire smoke plumes. These disposable Particulate Matter Sensors, calibrated against an industry-standard GRIMM OPC, provide a low-cost way to collect data to better understand wildfire smoke dynamics and forecasting. The sensors, built with off-the-shelf components, cost approximately $100 to build. For more information, visit the Fire Sensors website.
+          - Co-creator and Instructor (with Dr. Stull) of a new fourth-year Synoptic Fire Weather Forecasting Course, which includes the following topics:
+            - Analyze and interpret weather-observation data,
+            - Interpret numerical weather prediction models,
+            - Apply meteorological principles to fire behavior,
+            - Compare alternative fire spread/danger outcomes given weather forecast uncertainty,
+            - Develop fire response plan of the day materials (as if they were professional fire-weather forecasters).
+          - Each Friday, a graduate or fourth-year undergraduate student in the Atmospheric Science Department is required to do a weekend weather forecast. I am considered the Graduate Student Subject Matter Expert and assist the student in developing their one-hour forecast.
+          - Teacher Assistant for Dr. Stull's Weather Instruments Course
+          - Assist with developing grant proposals that fund various research projects within the department.
 
-        - Notable Coursework:
-          - Data Analysis in Atmospheric, Earth, and Ocean Sciences
-          - Boundary-Layer Meteorology
-          - Numerical Weather Prediction (NWP)
-          - Numerical Techniques for Ocean, Atmosphere, and Earth Scientists
+          - Notable Coursework:
+            - Data Analysis in Atmospheric, Earth, and Ocean Sciences
+            - Boundary-Layer Meteorology
+            - Numerical Weather Prediction (NWP)
+            - Numerical Techniques for Ocean, Atmosphere, and Earth Scientists
 
       - layout: left
         title: University of Colorado
@@ -119,7 +119,7 @@ content:
             - Detecting and analyzing 26 observed outflow boundaries in the Colorado Front Range to validate WRF's ability to accurately model gust fronts.
             - Analyzing the characteristics of each individual outflow boundary using a variety of remote sensing and in-situ instruments. Depth, length, propagation speed/direction, temperature/pressure change, turbulence, and maximum velocity throughout the boundary layer was quantified and categorized depending on the thunderstorm type, terrain, and ambient atmospheric conditions.
             - <a target="_blank" href="http://clouds.colorado.edu/fire/">For more information</a>           
-                                                             
+
           - Notable Coursework:
             - Scientific Computing in Atmospheric Science 
             - Atmospheric Radiative Transfer and Remote Sensing
@@ -129,6 +129,51 @@ content:
             - Atmospheric Physics
             - Synoptic Meteorology
             - Applied Mathematics (Differential and Partial Differential Equations)
+
+  - title: Professional/Academic Services # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: BlueSky Canada Smoke Forecast 
+        link: https://www.firesmoke.ca
+        link_text: Firesmoke.ca
+        caption: 2019 - present
+        sub_title: Media and General Spokesperson
+        # quote: >
+        description: |
+          -	Provide media interviews regarding wildfire and smoke conditions/forecasting. Media groups have included; the Canadian Broadcasting Corporation, The Globe and Mail, Vancouver Sun, National Post, and local Vancouver tv and radio stations.
+          -	Moderate conference calls with myriad domestic and international stakeholders, including; British Columbia - Ministry of Environment, Alberta - Ministry of Environment, Northwest Territories - Environment and Climate Change, Environment Climate Change Canada, Natural Resources Canada, US Forest Service – AirFire, National Oceanic and Atmospheric Administration, and the Los Alamos National Laboratory
+
+      - layout: left
+        title: World Meteorological Organization (WMO) - Geneva Switzerland
+        link: https://hpfx.collab.science.gc.ca/~svfs000/na-vfsp-was/public/dist/home/introduction
+        link_text: Vegetation Fire and Smoke Pollution Warning Advisory and Assessment System 
+        caption: 2022 - present
+        sub_title: Research Member 
+        # quote: >
+        description: |
+          -	Fire Risk Forecasting working group
+          -	Fire and Smoke emissions working group
+
+      - layout: left
+        title: Wildland Fire Canada Conference 
+        link: https://wildlandfirecanada.com/
+        link_text: WFCC 
+        caption: 2021 - present
+        sub_title: Program Committee Member 
+        # quote: >
+        description: |
+          -	Wildland Fire Canada 2022. Edmonton, AB, CA
+          -	Wildland Fire Canada 2024. Fredericton, NW, CA
+
+      - layout: left
+        title: American Meteorological Society 
+        link: https://www.ametsoc.org/index.cfm/ams/meetings-events/ams-meetings/35agforest-14fire-6biogeo/
+        link_text: 14th Fire and Forest Meteorology Symposium 
+        caption: 2022 - 2023
+        sub_title: Program Committee and Session Chair  
+        description: |
+          -	14th Fire and Forest Meteorology Symposium 2023 Minneapolis, MN, USA
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -147,14 +192,6 @@ content:
           - Digital and physical samples collected and transmitted to NADP included data from a NOAH IV rain gauge and a non-contaminated weighed precipitation sample.
           - Gauge sites also required routine equipment maintenance, and on occasion, emergency repairs were needed (regardless of weather conditions).
 
-  - title: Additional Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: U.S. Forest Service
-        link: https://www.fs.usda.gov/whiteriver
-        link_text: White River National Forest
-        caption: May 2015 - Oct. 2016
         sub_title: Forestry Technician GS-05-Trails Crew
         # quote: >
         description: | # this will include new lines to allow paragraphs
@@ -165,11 +202,6 @@ content:
           - The work was dangerous and strenuous, requiring the use of various safety measures. 
           - Completed USFS National Fire Response training and was dispatched to fight multiple fires in the 2016 fire season.
 
-      - layout: left
-        title: U.S. Forest Service
-        link: https://www.fs.usda.gov/whiteriver
-        link_text: White River National Forest
-        caption: May 2014 - Nov. 2014
         sub_title: Forestry Technician GS-04-Developed Rec.
         # quote: |
           # Forestry Technician GS-04-Developed Rec.
